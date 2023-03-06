@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac11913a-5cb3-4dda-8f72-4758643f917d" name="Changes" comment="github page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/blog/hello-world/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/blog/hello-world/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="ac11913a-5cb3-4dda-8f72-4758643f917d" name="Changes" comment="github page 자동배포 및 배포 세팅" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678100143294</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="github page 자동배포 및 배포 세팅">
+      <created>1678104480747</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678104480747</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +122,7 @@
     <MESSAGE value="config 수정" />
     <MESSAGE value="netlify 적용" />
     <MESSAGE value="github page" />
-    <option name="LAST_COMMIT_MESSAGE" value="github page" />
+    <MESSAGE value="github page 자동배포 및 배포 세팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="github page 자동배포 및 배포 세팅" />
   </component>
 </project>
