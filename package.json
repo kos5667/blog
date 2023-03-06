@@ -7,6 +7,10 @@
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
+  "engines" : {
+    "npm" : ">=9.5.0",
+    "node" : ">=18.14.2"
+  },
   "dependencies": {
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.14",
