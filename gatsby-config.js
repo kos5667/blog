@@ -14,7 +14,7 @@ module.exports = {
       name: `Don`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Don's 개발일기`,
     siteUrl: `https://don-blog.com/`,
     // social: {
     //   twitter: `kylemathews`,
