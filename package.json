@@ -39,7 +39,7 @@
   },
   "scripts": {
     "build": "gatsby build",
-    "deploy": "gatsby build && gh-pages -d public -b deploy",
+    "deploy": "gatsby build && gh-pages -d public -b deploy -r 'git@github.com:kos5667/don-blog.github.io.git'",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "gatsby develop",

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac11913a-5cb3-4dda-8f72-4758643f917d" name="Changes" comment="config 수정">
-      <change afterPath="$PROJECT_DIR$/netlify.toml" afterDir="false" />
+    <list default="true" id="ac11913a-5cb3-4dda-8f72-4758643f917d" name="Changes" comment="netlify 적용">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -53,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678033424721</updated>
       <workItem from="1678033425910" duration="1046000" />
-      <workItem from="1678092567925" duration="3309000" />
+      <workItem from="1678092567925" duration="3924000" />
     </task>
     <task id="LOCAL-00001" summary="Gatsby">
       <created>1678093108616</created>
@@ -76,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678094525239</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="netlify 적용">
+      <created>1678096345629</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678096345629</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Gatsby" />
     <MESSAGE value="config 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="config 수정" />
+    <MESSAGE value="netlify 적용" />
+    <option name="LAST_COMMIT_MESSAGE" value="netlify 적용" />
   </component>
 </project>
