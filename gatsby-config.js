@@ -8,6 +8,9 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  // D
+  pathPrefix: '/blog/',
+
   siteMetadata: {
     title: `Don's Blog`,
     author: {
@@ -15,7 +18,7 @@ module.exports = {
       summary: `who lives and works in San Francisco building useful things.`,
     },
     description: `Don's 개발일기`,
-    siteUrl: `https://don-blog.com/`,
+    // siteUrl: `https://don-blog.com/`,
     // social: {
     //   twitter: `kylemathews`,
     // },
