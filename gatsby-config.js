@@ -123,3 +123,7 @@ module.exports = {
     },
   ],
 }
+
+exports.default = {
+  plugins: [`gatsby-plugin-graphql-codegen`],
+}
