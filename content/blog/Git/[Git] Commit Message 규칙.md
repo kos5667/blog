@@ -42,6 +42,10 @@ Commit Message 타입(type)
 
 해당하는 링크를 참조하여 작성하였습니다.
 
-[Git Commit Message 규칙](https://jason-api.tistory.com/89)
 
 
+> 출처
+>
+> [Git Commit Message 규칙](https://jason-api.tistory.com/89)
+>
+> https://www.coby-blog.co.kr/69e5333c-2398-4321-aba1-719681c95555
